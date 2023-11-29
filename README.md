@@ -10,9 +10,12 @@ This project seeks to determine the **best** chocolate chip cookie recipie.
 >>Yes!
 >>
 >>>why do we care?
+---
 
-**_becausee_**
-****Cookies
+
+
+**_because_**
+Cookies
 ---
 
 ![th-425343828](https://github.com/littlleHawk/CS305_Mod5/assets/119966698/2a083f5e-fb76-4158-ad4d-f2c1868be22b)
